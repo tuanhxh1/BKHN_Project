@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.codingwithmitch.googlemaps2018"
+        applicationId "com.tuan.maps"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
@@ -45,5 +45,13 @@ dependencies {
 
     // Circle ImageView
     implementation 'de.hdodenhof:circleimageview:2.2.0'
+    implementation 'com.google.android.gms:play-services-location:15.0.1'
+    implementation 'com.google.android.gms:play-services-maps:15.0.1'
+    //Google Direction
+    implementation 'com.google.maps:google-maps-services:0.2.11'
+    implementation 'org.slf4j:slf4j-nop:1.7.25'
+
+    implementation 'com.google.maps.android:android-maps-utils:0.5+'
+
 }
 apply plugin: 'com.google.gms.google-services'
