@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304666298539",
+    "firebase_url": "https://chatmaps-1bc1f.firebaseio.com",
+    "project_id": "chatmaps-1bc1f",
+    "storage_bucket": "chatmaps-1bc1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304666298539:android:408789363b6170b0",
+        "android_client_info": {
+          "package_name": "com.tuan.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304666298539-d992uv0b08cfqg8i8507prbc43enskum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuan.maps",
+            "certificate_hash": "383f7f96d81f179ab06a69cf000697ddf6bd89ed"
+          }
+        },
+        {
+          "client_id": "304666298539-7d2p33oe3frh9np9qofes7g007ch6gjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0CFPXgr1SbwTwlsJtIRY7mwqDazoQh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304666298539-7d2p33oe3frh9np9qofes7g007ch6gjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
